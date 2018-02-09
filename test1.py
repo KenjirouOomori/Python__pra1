@@ -1,2 +1,3 @@
-from turtle import *
-forward(100)
+5-5+1+9
+5/5/1+9
+5/5+1*9
